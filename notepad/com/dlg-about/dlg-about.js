@@ -13,7 +13,7 @@ var $dlgAbout = (function() {
               + '<img class="app-logo" src="../../images/notepad-icon-32.png" alt="JSNotepad">'
               + '<div class="info">'
                 + '<p>作者：lin</p>'
-                + '<p>QQ：1207469303</p>'
+                + '<p>QQ：2955251838</p>'
                 + '<p>仓库地址：<a href="https://github.com/foreststarsea/jsnodepad/tree/main/notepad" target="_blank">https://github.com/foreststarsea/jsnodepad/tree/main/notepad</a></p>'
               + '</div>'
               + '<input class="btn-ok btn" type="button" value="确定" autofocus>'
