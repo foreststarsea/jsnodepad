@@ -14,7 +14,7 @@ var $dlgAbout = (function() {
               + '<div class="info">'
                 + '<p>作者：lin</p>'
                 + '<p>QQ：1207469303</p>'
-                + '<p>仓库地址：<a href="https://github.com/wangding/jsnotepad" target="_blank">https://github.com/wangding/jsnotepad</a></p>'
+                + '<p>仓库地址：<a href="https://github.com/foreststarsea/jsnodepad/tree/main/notepad" target="_blank">https://github.com/foreststarsea/jsnodepad/tree/main/notepad</a></p>'
               + '</div>'
               + '<input class="btn-ok btn" type="button" value="确定" autofocus>'
             + '</div>'
